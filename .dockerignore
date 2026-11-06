@@ -1,0 +1,7 @@
+.git
+**/__pycache__
+**/*.pyc
+backend/venv
+backend/solar.db
+frontend/node_modules
+frontend/dist
